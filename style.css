@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://use.fontawesome.com/d1341f9b7a.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Skye Slattery</title>
+</head>
+<body>
+    <div class="box">
+        <img src="slatcode.jpg" class="box-img">
+        <h1>Skye Slattery</h1>
+        <h5>IHS Student</h5>
+        <p>Ithaca High School is a public high school in Ithaca, New York, USA. It is part of the Ithaca City School District, and has an enrollment of approximately 1,675.</p>
+    <ul>
+        <li><a href='#'><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
+        <li><a href='#'><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+        <li><a href='#'><i class="fa fa-google-plus-square" aria-hidden="true"></i></a></li>
+    </ul>
+</div>
+    </body>
+</html>
